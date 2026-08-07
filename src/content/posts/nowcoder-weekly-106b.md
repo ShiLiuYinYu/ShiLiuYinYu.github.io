@@ -2,7 +2,7 @@
 title: "小苯的数字折叠-牛客周赛106B"
 published: 2025-08-24
 description: '牛客周赛106B题解，大数回文数字折叠，C++ 溢出后用 Java BigInteger 解决。'
-image: '/images/2025/08/20250824-e1756038478924.jpg'
+image: '/images/2025/08/nowcoder-weekly-106b-cover.jpg'
 tags: [C_C++, Java, 算法]
 category: '题解'
 draft: false

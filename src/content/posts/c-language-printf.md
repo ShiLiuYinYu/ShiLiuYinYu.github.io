@@ -2,7 +2,7 @@
 title: "C语言中的printf输出"
 published: 2025-09-10
 description: 'C 语言 printf 函数详解：格式说明符、转义字符与动态宽度等常用技巧总结。'
-image: '/images/2025/09/Imagewangxt-scaled.jpg'
+image: '/images/2025/09/c-printf-cover.jpg'
 tags: [C_C++]
 category: '学习记录'
 draft: false

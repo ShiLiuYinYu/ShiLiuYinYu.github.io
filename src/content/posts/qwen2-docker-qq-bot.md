@@ -2,7 +2,7 @@
 title: "[实战] 零成本打造私人 AI 助手：Win11 + Docker 本地部署 Qwen2.5 + QQ 机器人全流程"
 published: 2026-01-14
 description: 'Win11 + WSL2 + Docker 本地部署 Qwen2.5-7b + NapCat + AstrBot，零成本打造 QQ AI 机器人。'
-image: '/images/2026/01/c011c7cf-0ad9-4f03-9682-40beea184643.png'
+image: '/images/2026/01/qwen2-docker-qq-bot-cover.png'
 category: '学习记录'
 draft: false
 ---

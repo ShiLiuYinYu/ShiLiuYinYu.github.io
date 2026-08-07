@@ -2,7 +2,7 @@
 title: "牛客周赛116-D-小红的区间相交"
 published: 2025-11-04
 description: '牛客周赛 Round 116 D 题解，判断多个区间是否两两相交。'
-image: '/images/2025/11/nk116d1-1024x529.png'
+image: '/images/2025/11/nowcoder-weekly-116d-diagram1.png'
 tags: [C_C++, 算法]
 category: '题解'
 draft: false
@@ -16,13 +16,13 @@ draft: false
 
 如下图所示：
 
-![](/images/2025/11/nk116d1-1024x529.png)
+![](/images/2025/11/nowcoder-weekly-116d-diagram1.png)
 
 我们不难想到，如果我们对输入的n个区间进行排序，按照L升序排列的结果(这个结果指的是排序后的区间顺序)应该与按照R升序排列的结果一样。也就是`maxL <= minR`
 
 但是，有一种情况要特判，如下图：
 
-![](/images/2025/11/nk116d2-1024x506.png)
+![](/images/2025/11/nowcoder-weekly-116d-diagram2.png)
 
 这种情况也满足`maxL <= minR`，但是`maxL` 和 `minR`来自同一个区间，我们在这里**做特判**就行。
 
@@ -128,7 +128,7 @@ return 0;
 
 看到这里，我必须要解释一种情况，也就是**输入的所有区间都相同**的情况，这个代码为什么也会输出”Yes”。
 
-![](/images/2025/11/nk116d3-1.png)
+![](/images/2025/11/nowcoder-weekly-116d-diagram3.png)
 
 我们来看结构体qj的代码
 

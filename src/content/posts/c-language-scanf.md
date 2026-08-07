@@ -2,7 +2,7 @@
 title: "C语言scanf函数输入指南：从入门到避坑"
 published: 2025-10-10
 description: 'C 语言 scanf 函数从入门到避坑：缓冲区原理、%c 陷阱、%s 溢出等常见问题详解。'
-image: '/images/2025/10/135965114_p0-e1760094137275.jpg'
+image: '/images/2025/10/c-scanf-cover.jpg'
 tags: [C_C++]
 category: '学习记录'
 draft: false

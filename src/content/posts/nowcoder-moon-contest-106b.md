@@ -2,7 +2,7 @@
 title: "末日DISCO"
 published: 2025-08-15
 description: '牛客小白月赛106B题解，构造满足交集条件的 n 个集合。'
-image: '/images/2025/08/DoomDISCO-e1755221657170.jpg'
+image: '/images/2025/08/nowcoder-moon-contest-106b-cover.jpg'
 tags: [C_C++, 算法]
 category: '题解'
 draft: false
