@@ -61,8 +61,7 @@ async function main() {
 }
 
 main().catch((err) => {
-	console.error("\n✘ Script execution error:");
-	console.error(err);
-	process.exit(1);
+	console.warn("\n⚠ Anime update skipped (non-critical):");
+	console.warn(err.message || err);
 });
 
